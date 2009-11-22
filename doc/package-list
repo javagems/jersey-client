@@ -1,0 +1,4 @@
+com.sun.jersey.api.client
+com.sun.jersey.api.client.config
+com.sun.jersey.api.client.filter
+com.sun.jersey.client.urlconnection

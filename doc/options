@@ -1,0 +1,23 @@
+-classpath '/files/hudson/workspace/Jersey/jersey/jersey-client/target/classes:/files/hudson/workspace/Jersey/jersey/jersey-core/target/jersey-core-1.0.3-SNAPSHOT.jar:/files/hudson/.m2/repository/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.jar'
+ -encoding
+'ISO-8859-1'
+-protected
+-sourcepath
+'/files/hudson/workspace/Jersey/jersey/jersey-client/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2009 <a href="http://www.sun.com/">Sun Microsystems, Inc</a>. All Rights Reserved.'
+-charset
+'ISO-8859-1'
+-d
+'/files/hudson/workspace/Jersey/jersey/jersey-client/target/apidocs'
+-doctitle
+'jersey-client 1.0.3-SNAPSHOT API'
+-linkoffline
+'https://jersey.dev.java.net/jersey-core/apidocs' '/files/hudson/workspace/Jersey/jersey/jersey-core/target/apidocs'
+-linkoffline
+'https://jersey.dev.java.net/jersey-server/apidocs' '/files/hudson/workspace/Jersey/jersey/jersey-server/target/apidocs'
+-use
+-version
+-windowtitle
+'jersey-client 1.0.3-SNAPSHOT API'
